@@ -16,6 +16,6 @@ let package = Package(
     dependencies: [
     ],
     targets: [
-        .binaryTarget(name: "Build-V3-Plugin-Monitoring-ios", url: "https://bryj-sdks.s3.eu-west-1.amazonaws.com/build/plugins/Build_V3_Plugin_Monitoring_ios/beta/1.0.2-beta.84/Build_V3_Plugin_Monitoring_ios_1.0.2-beta.84.xcframework.zip", checksum: "d51ad5f1bb7d371efec0813f0e65887f051f02a129d4f536e1d4c760c7dc73d2")
+        .binaryTarget(name: "Build-V3-Plugin-Monitoring-ios", url: "https://bryj-sdks.s3.eu-west-1.amazonaws.com/build/plugins/Build_V3_Plugin_Monitoring_ios/1.0.2/Build_V3_Plugin_Monitoring_ios_1.0.2.xcframework.zip", checksum: "3e4ec4e67ce65b11807939495d592a5caebff31596131a0d045a2516c6a3496c")
     ]
 )
